@@ -7,3 +7,7 @@
 ## Code
 
 <https://github.com/mschwarzmueller/ai-agents-workflows-course/tree/main>
+
+# uv:
+
+<https://docs.astral.sh/uv/>
