@@ -8,6 +8,10 @@
 
 <https://github.com/mschwarzmueller/ai-agents-workflows-course/tree/main>
 
-# uv:
+## uv
 
 <https://docs.astral.sh/uv/>
+
+## Model selection
+
+<https://platform.openai.com/docs/guides/model-selection>
