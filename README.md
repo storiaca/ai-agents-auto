@@ -15,3 +15,11 @@
 ## Model selection
 
 <https://platform.openai.com/docs/guides/model-selection>
+
+## OpenAI API
+
+<https://platform.openai.com/docs/api-reference>
+
+## OpenAI API overview
+
+<https://platform.openai.com/docs/overview>
