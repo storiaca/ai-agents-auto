@@ -23,3 +23,8 @@
 ## OpenAI API overview
 
 <https://platform.openai.com/docs/overview>
+
+## The Ollama API is now available at 127.0.0.1:11434.
+
+> > > Install complete. Run "ollama" from the command line.
+> > > AMD GPU ready.
