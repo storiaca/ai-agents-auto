@@ -28,3 +28,7 @@
 
 > > > Install complete. Run "ollama" from the command line.
 > > > AMD GPU ready.
+
+## Ollama API Docs
+
+<https://github.com/ollama/ollama/blob/main/docs/api.md>
